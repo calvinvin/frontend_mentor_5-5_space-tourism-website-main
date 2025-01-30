@@ -5,6 +5,7 @@ const nextConfig: NextConfig = {
   output: 'export',
   images: { unoptimized: true },
   basePath: '/frontend_mentor_5-5_space-tourism-website-main',
+  assetPrefix: '/frontend_mentor_5-5_space-tourism-website-main',
 };
 
 export default nextConfig;
